@@ -6,7 +6,7 @@ The first stage of this championship was online. It was necessary to develop a f
 
 As a training dataset, the history of apartment sales in 2.5 years was provided for 30 projects in Moscow and the Moscow Region. It contains information about the parameters of apartments, transport accessibility, sales history, history of status changes, and external economic parameters. The evaluation metric is **RMSE**.
 
-The repo consists of an **IPython notebook** with Data Preprocessing techniques and Linear Regression modeling process. And also a **final presentation** of the team, which took place at Yandex 28.07.2018 (a video link: https://youtu.be/qSehSTWMXaY?t=4213)
+The repo consists of an **IPython notebook** with Data Preprocessing techniques and Linear Regression modeling process. And also a **final presentation** of the team, which took place at Yandex 28.07.2018 (a video link: https://youtu.be/qSehSTWMXaY?t=4213 and an article: https://goo.gl/2dfwGB)
 
 **The results**: **the 1st place** for Linear Regression solution and **the 2nd place** for the model w/o restrictions (a blend of 80% XGB model and 20% Linear Regression) 
 
