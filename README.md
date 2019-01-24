@@ -1,6 +1,6 @@
 # PIK Digital Day 14.07.2018
 
-One of the unsolved problems in the construction industry is a fairly accurate prediction of sales depending on the price and hundreds of other parameters. Unlike the classic tasks of forecasting sales of the same goods, each apartment is a unique product with a unique price, which creates a number of methodological challenges at once.
+One of the unsolved problems in the **construction industry** is a fairly accurate prediction of sales depending on the price and hundreds of other parameters. Unlike the classic tasks of forecasting sales of the same goods, each apartment is a unique product with a unique price, which creates a number of methodological challenges at once.
 
 The first stage of this championship was online. It was necessary to develop a forecasting model of sales for three months ahead in the context of buildings and apartments of a certain room number in different projects and get into the top 80 places. The second stage was a 1-day hackathon (offline). 
 
