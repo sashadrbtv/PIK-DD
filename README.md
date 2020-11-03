@@ -2,7 +2,7 @@
 
 One of the unsolved problems in the **construction industry** is a fairly accurate prediction of sales depending on the price and hundreds of other parameters. Unlike the classic tasks of forecasting sales of the same goods, each apartment is a unique product with a unique price, which creates a number of methodological challenges at once.
 
-The first stage of this championship was online. It was necessary to develop a forecasting model of sales for three months ahead in the context of buildings and apartments of a certain room number in different projects and get into the top 80 places. The second stage was a 1-day hackathon (offline). 
+The first stage of this championship was online. It was necessary to develop a forecasting model of sales for three months ahead in the context of buildings and apartments of a certain room number in different projects and get into the top 80 places. The second stage was a 1-day hackathon (offline, short video: https://www.youtube.com/watch?v=lYhCmCiHfdc). 
 
 As a training dataset, the history of apartment sales in 2.5 years was provided for 30 projects in Moscow and the Moscow Region. It contains information about the parameters of apartments, transport accessibility, sales history, history of status changes, and external economic parameters. The evaluation metric is **RMSE**.
 
